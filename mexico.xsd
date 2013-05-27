@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
   targetNamespace="http://data.sfb673.org/mexico" xmlns:mexico="http://data.sfb673.org/mexico"
-  xmlns="http://data.sfb673.org/mexico" elementFormDefault="qualified" version="0.1.0">
+  xmlns="http://data.sfb673.org/mexico" elementFormDefault="qualified" version="1.0.1">
 
   <xs:attributeGroup name="Identifiable">
     <xs:attribute name="identifier" type="xs:ID" use="required"/>
